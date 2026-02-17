@@ -28,5 +28,5 @@ class Notebook:
         self.notes = []
 
     def add_note(self, note: Note):
-        code = len(self.notes) + 1
+        code = len(self.notes) +
 
